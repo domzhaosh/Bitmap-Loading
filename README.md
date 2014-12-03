@@ -7,3 +7,7 @@ User Interface
 ![Alt text](http://i.imgur.com/1ouavJj.png "Editing Options")
 
 ![Alt text](http://i.imgur.com/L1nKl7Y.png)
+
+Rotation, Horizontal Mirror and Negative (just a example)
+
+![Alt text](http://i.imgur.com/4RJvojD.png)
