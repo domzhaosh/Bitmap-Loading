@@ -5,3 +5,5 @@ User Interface
 ![Alt text](http://i.imgur.com/zLy7BiF.png "Bitmap Selection")
 
 ![Alt text](http://i.imgur.com/1ouavJj.png "Editing Options")
+
+![Alt text](http://i.imgur.com/L1nKl7Y.png)
