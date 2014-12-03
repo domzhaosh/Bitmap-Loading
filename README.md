@@ -1,5 +1,6 @@
-Simple Bitmap Loader using Win32 API, C++ and Visual Studio 2012
+Simple Bitmap Loader 
 ==========
+Using Win32 API for User Interface, C++ and Visual Studio 2012
 
 User Interface
 
